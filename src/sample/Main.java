@@ -74,7 +74,7 @@ public class Main extends Application {
             //helpB.setLayoutX(200);
             //helpB.setLayoutY(80);
 
-            Image img1 = new Image("file:HelpI.png");
+            Image img1 = new Image("file:Asserts/HelpI.png");
             ImageView view1 = new ImageView(img1);
             view1.setFitHeight(20);
             view1.setPreserveRatio(true);
@@ -92,7 +92,7 @@ public class Main extends Application {
 
         });
 
-            Image image = new Image("file:BG2x.jpg");
+            Image image = new Image("file:Asserts/BG2x.jpg");
             ImageView img = new ImageView(image);
 
 

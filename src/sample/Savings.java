@@ -21,7 +21,7 @@ public class Savings {
 
 
         //Adding background image
-        Image image = new Image("file:BG2.jpg");
+        Image image = new Image("file:Asserts/BG2.jpg");
         ImageView img = new ImageView(image);
 
 
@@ -944,7 +944,7 @@ public class Savings {
         btn3.setMinSize(120, 30);
         btn3.setLayoutX(200);
         btn3.setLayoutY(100);
-        Image img1 = new Image("file:Back.png");
+        Image img1 = new Image("file:Asserts/Back.png");
         ImageView view = new ImageView(img1);
         view.setFitHeight(20);
         view.setPreserveRatio(true);
@@ -957,7 +957,7 @@ public class Savings {
         helpB.setMinSize(50, 30);
         helpB.setLayoutY(35);
 
-        Image img2 = new Image("file:HelpI.png");
+        Image img2 = new Image("file:Asserts/HelpI.png");
         ImageView view2 = new ImageView(img2);
         view2.setFitHeight(20);
         view2.setPreserveRatio(true);

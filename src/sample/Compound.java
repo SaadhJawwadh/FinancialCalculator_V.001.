@@ -100,7 +100,7 @@ public class Compound  {
         Button helpB = new Button("Tips");
         helpB.setMinSize(50, 30);
 
-        Image img2 = new Image("file:HelpI.png");
+        Image img2 = new Image("file:Asserts/HelpI.png");
         ImageView view2 = new ImageView(img2);
         view2.setFitHeight(20);
         view2.setPreserveRatio(true);
@@ -116,7 +116,7 @@ public class Compound  {
         btn3.setLayoutX(150);
         btn3.setLayoutY(50);
 
-        Image img1 = new Image("file:Back.png");
+        Image img1 = new Image("file:Asserts/Back.png");
         ImageView view = new ImageView(img1);
         view.setFitHeight(20);
         view.setPreserveRatio(true);
@@ -315,7 +315,7 @@ public class Compound  {
 
 
 
-        Image image = new Image("file:BG.jpg");
+        Image image = new Image("file:Asserts/BG.jpg");
         ImageView img=new ImageView(image);
         img.setFitHeight(600);
         img.setFitWidth(600);

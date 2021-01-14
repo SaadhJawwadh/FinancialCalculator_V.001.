@@ -13,7 +13,7 @@ public class Help {
         window1.setTitle("Main Help");
 
 
-        Image image = new Image("file:Help01.jpg");
+        Image image = new Image("file:Asserts/Help01.jpg");
         ImageView img = new ImageView(image);
 
         Pane MainHelp =new Pane();
@@ -32,7 +32,7 @@ public class Help {
         Stage window3 = new Stage();
         window3.setTitle("Loan Help");
 
-        Image image = new Image("file:HelpLo.jpg");
+        Image image = new Image("file:Asserts/HelpLo.jpg");
         ImageView img = new ImageView(image);
 
         Pane LHelp =new Pane();
@@ -51,7 +51,7 @@ public class Help {
         window4.setTitle("Mortgage Help");
 
 
-        Image image = new Image("file:HelpM.jpg");
+        Image image = new Image("file:Asserts/HelpM.jpg");
         ImageView img = new ImageView(image);
 
 
@@ -72,7 +72,7 @@ public class Help {
 
 
 
-        Image image = new Image("file:HelpCo.jpg");
+        Image image = new Image("file:Asserts/HelpCo.jpg");
         ImageView img = new ImageView(image);
 
 
@@ -92,7 +92,7 @@ public class Help {
         Stage window6 = new Stage();
         window6.setTitle("Saving Help");
 
-        Image image = new Image("file:HelpS.jpg");
+        Image image = new Image("file:Asserts/HelpS.jpg");
         ImageView img = new ImageView(image);
 
 
