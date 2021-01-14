@@ -1,0 +1,44 @@
+
+s	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡ËÆúÿÿÿÿ8Â¼ì˜´.
+c
+java:S1192P"GDefine a constant instead of duplicating this literal "Result" 4 times.(­¦¥>8œ‡±”´.
+s	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öò“ıùÿÿÿÿ8úÚø”´.
+y
+java:S1192!"WDefine a constant instead of duplicating this literal "N (Number of Periods):" 5 times.(ô¼äêşÿÿÿÿ8µ£‘³.
+u
+java:S1192N"XDefine a constant instead of duplicating this literal " -fx-font-weight: bold;" 5 times.(¶áŸ8Ó‚ıĞ³.
+h
+java:S1192h"FDefine a constant instead of duplicating this literal "Clear" 5 times.(ÚÓ«Ìùÿÿÿÿ8¾íĞ³.
+Ÿ
+java:S1192l"Define a constant instead of duplicating this literal "-fx-base: #c8f6ae;-fx-font-style: italic; -fx-font-weight: bold;" 5 times.(Ä§Û¸8ÔÈ÷´.
+g
+java:S1192F"JDefine a constant instead of duplicating this literal "Calculate" 5 times.(Ú•Ìû8Ç™½Â³.
+H
+java:S1481½"*Remove this unused "num12" local variable.(Àê‘®8ÔÈ÷´.
+m	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ãâ˜8§ôï”´.
+?
+java:S1116ç"Remove this empty statement.(‘ˆ¿’üÿÿÿÿ8ƒ€à”´.
+y
+java:S1192/"WDefine a constant instead of duplicating this literal "PMT (Annuity Payment):" 4 times.(²§¼×øÿÿÿÿ8µ£‘³.
+r
+java:S1192&"UDefine a constant instead of duplicating this literal "I/Y (Compound Rate):" 4 times.(°ÉÛö8Üğ±‘³.
+s	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İü”øÿÿÿÿ8ê„á”´.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÃëÌ˜şÿÿÿÿ8–Ìò™³.
+†
+java:S1192b"iDefine a constant instead of duplicating this literal "Invalid input!, Please enter a Number..." 5 times.(ÔÍÖò8¢âï˜´.
+t
+java:S1192¯"QDefine a constant instead of duplicating this literal "Start Principal:" 3 times.(«¹§±şÿÿÿÿ8Ôİäø³.
+ 
+java:S1192|"‚Define a constant instead of duplicating this literal "-fx-base: #1e3636;-fx-font-style: italic; -fx-font-weight: bold;" 11 times.(º¶…®8¯Àâ´.
+t
+java:S1192I"WDefine a constant instead of duplicating this literal "-fx-font-weight: bold;" 5 times.(õÛöÑ8‹å¸´.
+n	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ°µ8Â¼ì˜´.
+m	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×„8ûø”´.
+I
+java:S1481á"&Remove this unused "n" local variable.(˜‚òÊüÿÿÿÿ8ÔÈ÷´.
+p
+java:S1192«"SDefine a constant instead of duplicating this literal "FV (Future Value):" 4 times.(ÌÄÓ8ÔÈ÷´.
+m	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ĞÅì8ëÇï”´.
+n	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞËôÆ8¡¶ä”´.
+n	java:S117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùô¦Ó8 ¦ù”´.

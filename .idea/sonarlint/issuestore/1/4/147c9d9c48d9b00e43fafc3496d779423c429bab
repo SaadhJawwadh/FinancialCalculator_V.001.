@@ -1,0 +1,20 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–éªÜÿÿÿÿÿ8ˆ£ôó³.
+o	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡™¸¿ùÿÿÿÿ8ˆ£ôó³.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªºÖ»ÿÿÿÿÿ8ˆ£ôó³.
+j	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è­´ª8ˆ£ôó³.
+o	java:S100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«£ƒ»øÿÿÿÿ8ŸœÀ÷³.
+j	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÍû™8ˆ£ôó³.
+m	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ãîá8ˆ£ôó³.
+l	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Œ·H8ŸœÀ÷³.
+r	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—è¼²ÿÿÿÿÿ8ˆ£ôó³.
+U
+java:S1128"3Remove this unused import 'javafx.scene.text.Text'.(˜ÿ‡Üşÿÿÿÿ8ÎèÁ–´.
+Y
+java:S1128
+"7Remove this unused import 'javafx.scene.control.Label'.(ö²­ÿÿÿÿÿ8¼— ´.
+m	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€åË§8ıë«÷³.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÈÙ’÷ûÿÿÿÿ8ˆ£ôó³.
+]
+java:S1128";Remove this unused import 'javafx.scene.control.Hyperlink'.(ÍçüÃúÿÿÿÿ8–§Á–´.

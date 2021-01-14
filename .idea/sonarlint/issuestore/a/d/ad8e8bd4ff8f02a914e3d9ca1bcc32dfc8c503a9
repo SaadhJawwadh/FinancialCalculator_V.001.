@@ -1,0 +1,11 @@
+
+¤
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õ„óùùÿÿÿÿ8àãùÒ³.
+©
+java:S1192'"†Define a constant instead of duplicating this literal "-fx-font-size: 4mm;-fx-base: rgba(0,0,0,0.71); -fx-font-weight: bold;" 4 times.(—‹Ìªşÿÿÿÿ8ØŒæš´.
+]	java:S125J"<This block of commented-out lines of code should be removed.(àş‡ßÿÿÿÿÿ8çÉŒš´.
+O
+java:S1172",Remove this unused method parameter "scene".(Õ„óùùÿÿÿÿ8àãùÒ³.
+I
+java:S1602Z",Remove useless curly braces around statement(¹œ–¿8†£ôó³.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çàä8™×ìÒ³.

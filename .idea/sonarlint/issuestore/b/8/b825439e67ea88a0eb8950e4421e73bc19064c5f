@@ -1,0 +1,6 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(å Õ8Ü‚Õ³.
+¦
+java:S1192…"‚Define a constant instead of duplicating this literal "-fx-base: #1e3636;-fx-font-style: italic; -fx-font-weight: bold;" 11 times.(Ú›Ëæùÿÿÿÿ8ÉèÏ‘´.
+X	java:S125n"<This block of commented-out lines of code should be removed.(Ú£Ğ8ÉèÏ‘´.
